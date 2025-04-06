@@ -28,7 +28,7 @@ Dataset sourced from [Kaggle](https://www.kaggle.com/datasets/adrianmcmahon/imdb
  ┣ 📂 notebooks                    # Jupyter notebooks for analysis & experimentation
  ┃ ┣ 📜 MyNotebook.ipynb           # Contains data cleaning, feature engineering, and modeling
  ┣ 📂 models                       # Stores trained models
- ┃ ┣ 📜 final_model.pkl            # Trained model file
+ ┃ ┣ 📜 Movie Rating System        # Trained model file
  ┣ 📜 README.md                    # Project documentation
  ┣ 📜 requirements.txt             # Dependencies list
  ┣ 📜 .gitignore
