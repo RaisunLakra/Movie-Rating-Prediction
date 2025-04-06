@@ -24,15 +24,15 @@ Dataset sourced from [Kaggle](https://www.kaggle.com/datasets/adrianmcmahon/imdb
  ┣ 📜 app.py
  ┣ 📂 datasets
  ┃ ┣ 📜 IMDb_Movies_India.csv
- ┃ ┣ 📜 processed_data.pkl         # Cleaned dataset
- ┣ 📂 notebooks                    # Jupyter notebooks for analysis & experimentation
- ┃ ┣ 📜 MyNotebook.ipynb           # Contains data cleaning, feature engineering, and modeling
- ┣ 📂 models                       # Stores trained models
- ┃ ┣ 📜 Movie Rating System        # Trained model file
- ┣ 📜 README.md                    # Project documentation
- ┣ 📜 requirements.txt             # Dependencies list
+ ┃ ┣ 📜 processed_data.pkl                   # Cleaned dataset
+ ┣ 📂 notebooks                              # Jupyter notebooks for analysis & experimentation
+ ┃ ┣ 📜 MyNotebook.ipynb                     # Contains data cleaning, feature engineering, and modeling
+ ┣ 📂 models                                 # Stores trained models
+ ┃ ┣ 📜 random_forest_regressor_model        # Trained model file
+ ┣ 📜 README.md                              # Project documentation
+ ┣ 📜 requirements.txt                       # Dependencies list
  ┣ 📜 .gitignore
- ┣ 📜 LICENSE                      # Open-source license file
+ ┣ 📜 LICENSE                                # Open-source license file
 ```
 
 ## 🔧 Approach & Methodology
