@@ -32,7 +32,7 @@ Dataset sourced from [Kaggle](https://www.kaggle.com/datasets/adrianmcmahon/imdb
  ┣ 📜 README.md                              # Project documentation
  ┣ 📜 requirements.txt                       # Dependencies list
  ┣ 📜 .gitignore
- ┣ 📜 LICENSE                                # Open-source license file
+ ┣ 📜 LICENSE                                # MIT License
 ```
 
 ## 🔧 Approach & Methodology
