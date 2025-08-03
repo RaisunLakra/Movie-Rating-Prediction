@@ -17,16 +17,19 @@ logger = logging.getLogger(__name__)
 def load_resources():
     try:
         # Load unseen data
-        with open('../Datasets/Unseen_df.pkl', 'rb') as f:
+        with open('./Datasets/Unseen_df.pkl', 'rb') as f:
             unseen_df = pickle.load(f)
         
         # Load target encoder
-        with open('../models/target_encoder', 'rb') as f:
+        with open('./models/target_encoder', 'rb') as f:
             encoder = pickle.load(f)
         
         # Load trained model
-        with open('../models/best_random_forest_regressor', 'rb') as f:
+        with open('./models/model.py', 'rb') as f:
             model = pickle.load(f)
+
+        # with open('./models/best_random_forest_regressor', 'rb') as f:
+        #     model = pickle.load(f)
         
         logger.info("Data and models loaded successfully")
         return unseen_df, encoder, model
