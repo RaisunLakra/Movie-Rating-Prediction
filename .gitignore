@@ -2,3 +2,5 @@ Movie-Rating-pre-env
 */archive.*
 Notebook/.ipynb_checkpoints
 test.py
+client_secrets.json
+
